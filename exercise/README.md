@@ -6,5 +6,5 @@
 - [x] E - Ownership, References
 - [x] F - Structs, Traits
 - [x] G - Collections, Enums
-- [ ] H - Closures, Threads
+- [x] H - Closures, Threads
 - [ ] Z - Final Project
