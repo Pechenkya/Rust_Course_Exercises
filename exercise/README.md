@@ -7,4 +7,4 @@
 - [x] F - Structs, Traits
 - [x] G - Collections, Enums
 - [x] H - Closures, Threads
-- [ ] Z - Final Project
+- [x] Z - Final Project
